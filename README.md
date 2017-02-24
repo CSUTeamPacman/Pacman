@@ -12,4 +12,8 @@ When all pac-dots are eaten, Pac-Man is taken to the next stage.<br/>
 
 
 <b>System Boundary:</b>
-<image src="SystemBoundary.png"/ width= "600px" height = "400px">
+<image src="SystemBoundary.png" width= "600px" height = "400px"/>
+
+<br/>
+<b>System preview:</b>
+<image src = "pacman.preview.jpg" width = "600" height = "400"/>
