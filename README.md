@@ -7,4 +7,5 @@ Github: git@github.com:hotwing78/Pacman.git
 
 Program Description: The player controls Pac-Man through a maze, eating pac-dots.
                      When all pac-dots are eaten, Pac-Man is taken to the next stage.
-                     Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man.
+                     Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man.
+                     
