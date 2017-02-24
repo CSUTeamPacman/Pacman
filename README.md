@@ -9,3 +9,7 @@
 The player controls Pac-Man through a maze, eating pac-dots.<br/>
 When all pac-dots are eaten, Pac-Man is taken to the next stage.<br/>
  Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man.
+
+
+<b>System Boundary:</b>
+<image src="SystemBoundary.png"/ width= "600px" height = "400px">
