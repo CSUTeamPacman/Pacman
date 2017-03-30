@@ -4,5 +4,6 @@
 
 <b>Technologies:</b><br/>
 <ul>
-<li>Java</li>
+<li style="color:red">Java</li>
+<li>JavaFX</li>
 </ul>
