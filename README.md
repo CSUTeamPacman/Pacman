@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hotwing78/Pacman.png?label=ready&title=Ready)](https://waffle.io/hotwing78/Pacman)
 
 # Pacman: A fun game to kill time
 
