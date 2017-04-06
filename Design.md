@@ -9,3 +9,6 @@ Damon Wingo, Gavin Cribb, Ronnie Shaw
 <li>Java</li>
 <li>JavaFX</li>
 </ul>
+
+<b>Design:</b><br/>
+<image src="designUML.png" width= "600px" height = "400px"/>
