@@ -1,4 +1,4 @@
-# Project Design
+# Pacman Design
 
 <b>Team Members:</b><br/>
 Damon Wingo, Gavin Cribb, Ronnie Shaw
@@ -9,6 +9,9 @@ Damon Wingo, Gavin Cribb, Ronnie Shaw
 <li>Java</li>
 <li>JavaFX</li>
 </ul>
-
+<b>Responsiblities:</b></br>
+Damon Wingo:</br>
+Gavin Cribb</br>
+Ronnie Shaw</br>
 <b>Design:</b><br/>
 <image src="designUML.png" width= "600px" height = "400px"/>
