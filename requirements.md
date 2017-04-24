@@ -3,7 +3,7 @@
 
 <b>Team Members:</b> Damon Wingo, Gavin Cribb, Ronnie Shaw
 
-<b>Github:</b> git@github.com:hotwing78/Pacman.git
+<b>Github:</b> git@github.com:CSUTeamPacman/Pacman.git
 
 <b>Program Description: </b><br/>
 The player controls Pac-Man through a maze, eating pac-dots.<br/>
