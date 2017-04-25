@@ -12,7 +12,8 @@ Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-
 <b>Technologies:</b><br/>
 <ul>
 <li>Java</li>
-<li>JavaFX</li>
+<li>Swing</li>
+<li>AWT</li>
 </ul>
 <b>Responsiblities:</b></br>
 Damon Wingo: Maze design and Display</br>
