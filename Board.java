@@ -5,16 +5,18 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Event;
 import java.awt.Font;
+
 import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Image;
+
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 
+import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.Timer;
@@ -102,11 +104,13 @@ public class Board extends JPanel implements ActionListener {
         screenData = new short[N_BLOCKS * N_BLOCKS];
         mazeColor = new Color(5, 100, 5);
         d = new Dimension(400, 400);
+
         ghost_x = new int[MAX_GHOSTS];
         ghost_dx = new int[MAX_GHOSTS];
         ghost_y = new int[MAX_GHOSTS];
         ghost_dy = new int[MAX_GHOSTS];
         ghostSpeed = new int[MAX_GHOSTS];
+
         dx = new int[4];
         dy = new int[4];
 
@@ -529,12 +533,15 @@ public class Board extends JPanel implements ActionListener {
         pacman2up = new ImageIcon("images/up1.png").getImage();
         pacman3up = new ImageIcon("images/up2.png").getImage();
         pacman4up = new ImageIcon("images/up3.png").getImage();
+
         pacman2down = new ImageIcon("images/down1.png").getImage();
         pacman3down = new ImageIcon("images/down2.png").getImage();
         pacman4down = new ImageIcon("images/down3.png").getImage();
+
         pacman2left = new ImageIcon("images/left1.png").getImage();
         pacman3left = new ImageIcon("images/left2.png").getImage();
         pacman4left = new ImageIcon("images/left3.png").getImage();
+
         pacman2right = new ImageIcon("images/right1.png").getImage();
         pacman3right = new ImageIcon("images/right2.png").getImage();
         pacman4right = new ImageIcon("images/right3.png").getImage();
